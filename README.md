@@ -49,4 +49,4 @@ cargo run
 
 ## Laporan Project
 
-- 📄 [Laporan PDF](Dokumen/LaporanProject.pdf)
+- 📄 [Laporan PDF](Laporan/LaporanProject.pdf)
