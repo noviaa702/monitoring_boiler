@@ -1,4 +1,4 @@
-# boiler-monitoring-web
+# monitoring_boiler
 
 Sistem monitoring suhu boiler industri berbasis Rust yang digunakan untuk memonitor suhu boiler secara realtime, mendeteksi kondisi overheat, serta melakukan stabilisasi suhu otomatis.
 
@@ -37,13 +37,13 @@ cargo run
 
 ## Screenshot Program
 
-![Screenshot Program](screenshot_program/screenshot_program.png)
+![Screenshot Program](Flowchart_Program/Screenshot_Program.png)
 
 ---
 
 ## Flowchart Sistem
 
-![Flowchart Sistem](Screenshot_program/flowchart.jpeg)
+![Flowchart Sistem](Flowchart_Program/Screenshot_Program.png)
 
 ---
 
