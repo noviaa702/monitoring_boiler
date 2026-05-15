@@ -43,7 +43,7 @@ cargo run
 
 ## Flowchart Sistem
 
-![Flowchart Sistem](Flowchart_Program/Screenshot_Program.png)
+![Flowchart Sistem](Flowchart_Program/Flowchart.jpeg)
 
 ---
 
