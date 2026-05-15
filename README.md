@@ -18,13 +18,13 @@ Sistem monitoring suhu boiler industri berbasis Rust yang digunakan untuk memoni
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/Athaliamps13/boiler-monitoring-web.git
+git clone https://github.com/noviaa702/monitoring_boiler.git
 ```
 
 ### 2. Masuk ke folder project
 
 ```bash
-cd boiler-monitoring-web
+cd monitoring_boiler
 ```
 
 ### 3. Jalankan program Rust
